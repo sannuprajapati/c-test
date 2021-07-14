@@ -1,0 +1,8 @@
+EmployeeID=120405
+Name= Sannu
+Designation=Trainee Engineer
+Test_1_Mark=80
+Test_2_Mark=96
+Test_3_Mark=75
+Test_4_Mark=87
+Test_5_Mark=67
