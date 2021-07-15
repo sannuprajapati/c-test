@@ -1,5 +1,4 @@
 
-
 # include <stdio.h>
 main()
 {
@@ -39,6 +38,8 @@ if ( p>80){g="A";}
 if (p<8 && p>35){g="B"; }
 else g="C";
 
+//EmployeeID,Name,Designation,Test_1_Mark, Test_2_Mark,Test_3_Mark, Test_4_Mark,Test_5_Mark,Total Mark,Percentage,Grade
+printf("")
 printf("Total Marks is: %d\n", sum);
 printf("Percentage =%d \n", p);  
 printf("Grade = %c\n", g);
