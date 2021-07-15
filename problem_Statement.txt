@@ -1,0 +1,14 @@
+1. Write a C program to read a configuration file and assign the value in a structure. File content should be like below
+EmployeeID=120405
+Name= Sannu
+Designation=Trainee Engineer
+Test_1_Mark=80
+Test_2_Mark=96
+Test_3_Mark=75
+Test_4_Mark=87
+Test_5_Mark=67
+Print the value after reading.
+Write a function to calculate Total Marks, Percentage, Grade.
+Create a message from the parameters as mentioned below.
+EmployeeID,Name,Designation,Test_1_Mark, Test_2_Mark,Test_3_Mark, Test_4_Mark,Test_5_Mark,Total Mark,Percentage,Grade
+Print the message on screen.
